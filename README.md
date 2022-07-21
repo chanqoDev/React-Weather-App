@@ -5,7 +5,7 @@
 <div align="center">
 <br>
 
-## Netlify Site Status :
+## Netlify Site Status : [badge will go here]
 
 ### _Weather application built using ReactJs, OpenCage Api and OpenWeatherMap Api_
 
